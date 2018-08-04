@@ -1,7 +1,4 @@
-  dwarves.each.with_index(1) do |name, index|
-    new_dwarves << "#{index}. #{name}"
-  end
-  puts new_dwarves.join(" ")
+def roll_call_dwarve# Your code heres# code an argument here
   
 end
 
